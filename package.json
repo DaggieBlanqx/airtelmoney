@@ -1,6 +1,6 @@
 {
   "name": "airtelmoney",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Airtel Money application",
   "main": "index.js",
   "scripts": {
